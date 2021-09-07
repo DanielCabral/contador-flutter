@@ -81,6 +81,8 @@ flutter run
 
 2. Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
 
+## Resultado
+<img src="https://github.com/DanielCabral/contador-flutter/blob/master/app.png" alt="Logo">
 
 ## Contribuição
 
